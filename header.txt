@@ -1,2 +1,4 @@
-Some text
+Some text for head
+Changes from <master>
+Changes from <first>
 
